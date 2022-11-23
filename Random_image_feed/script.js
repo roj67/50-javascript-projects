@@ -1,6 +1,6 @@
 const container = document.querySelector(".container");
 const unsplashURL = "https://source.unsplash.com/random/";
-const btn = document.querySelector(".more");
+const btn = document.querySelector(".moreimg");
 const rows = 5;
 
 function getImage() {
